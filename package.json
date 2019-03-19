@@ -1,0 +1,13 @@
+{
+  "main": "./integration.js",
+  "name": "CyberSponse",
+  "version": "3.0.10-beta",
+  "private": true,
+  "license": "MIT",
+  "author": "Polarity",
+  "dependencies": {
+    "async": "^2.6",
+    "node-cache": "^4.2.0",
+    "request": "^2.88"
+  }
+}
